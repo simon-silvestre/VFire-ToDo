@@ -5,9 +5,9 @@
   </a>
 </p>
 
-> 
+> Ce projet avait pour but de crée une to do list avec VueJs et firebase
 
-### ✨ [Essayez par vous-même]()
+### ✨ [Essayez par vous-même](http://todo.simon-projets.com/)
 
 ## Install
 
