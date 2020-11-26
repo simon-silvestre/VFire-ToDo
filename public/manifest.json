@@ -1,0 +1,9 @@
+{
+    "name": "Vfire-ToDo",
+    "description": "ToDo list with VueJs and Firebase",
+    "theme_color": "#3EB3F6",
+    "display": "standalone",
+    "orientation": "portrait",
+    "start_url": "/",
+    "background_color": "#3EB3F6"
+}
