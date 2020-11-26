@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> Ce projet avait pour but de crée une to do list avec VueJs et firebase
+> Ce projet avait pour but de crée une to do list avec VueJs et firebase, le but final étant de crée un système d’authentification pour crée ses propres listes
 
 ### ✨ [Essayez par vous-même](http://todo.simon-projets.com/)
 
